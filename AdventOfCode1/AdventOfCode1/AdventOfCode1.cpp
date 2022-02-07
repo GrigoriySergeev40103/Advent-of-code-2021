@@ -39,7 +39,7 @@ int main()
 	// SECOND HALF
 
 	// File from wich we read mesurments
-	ifstream InputFile("C:\\Users\\Professional\\Downloads\\input.txt");
+	ifstream InputFile("../../../../AdventOfCode1/input.txt");
 	// Number of times mesurments window increased
 	uint32_t TimesIncreased = 0;
 
